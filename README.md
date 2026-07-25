@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0202-happy-number) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

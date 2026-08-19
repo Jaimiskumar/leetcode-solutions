@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

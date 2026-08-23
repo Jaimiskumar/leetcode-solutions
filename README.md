@@ -116,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0202-happy-number) |

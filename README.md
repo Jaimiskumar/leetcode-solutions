@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0134-gas-station) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

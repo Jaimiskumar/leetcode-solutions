@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

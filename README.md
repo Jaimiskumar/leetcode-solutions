@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0169-majority-element) |

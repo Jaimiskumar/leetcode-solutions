@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0169-majority-element) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Jaimiskumar/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
